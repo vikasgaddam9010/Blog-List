@@ -1,0 +1,13 @@
+.li-list-container {
+  border: 1px solid #9aa5b1;
+  padding: 20px;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+.d-flex {
+  display: flex;
+  justify-content: space-between;
+}
+p{
+  color: #9aa5b1;
+}
